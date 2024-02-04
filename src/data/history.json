@@ -1,0 +1,27 @@
+[
+    {
+      "role": "Software Developers",
+      "organisation": "",
+      "startDate": "",
+      "endDate": "",
+      "experiences": ["Write well-designed, testable, and efficient code.", "Prepare and produce releases of software components."],
+      "imageSrc": "history/SD-2D.png"
+    },
+    {
+      "role": "Designers- UI/UX",
+      "organisation": "",
+      "startDate": "",
+      "endDate": "",
+      "experiences": ["Assist in designing websites with wire-framing and UX capabilities.", "Design printed collateral, signage, print ads, etc."],
+      "imageSrc": "history/UIX.jpeg"
+    },
+    {
+      "role": "QA Engineers",
+      "organisation": "",
+      "startDate": "",
+      "endDate": "",
+      "experiences": ["Experience in manual and automation testing.","Assist developers, support reps, and product managers in debugging issues."
+      ],
+      "imageSrc": "history/qa.jpeg"
+    }
+  ]

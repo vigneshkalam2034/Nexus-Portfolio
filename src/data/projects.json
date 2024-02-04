@@ -1,0 +1,26 @@
+[
+    {
+      "title": "SAP Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "Nexus helps enterprises through the complete business transformation of their standard SAP products, with tailored solutions and also achieving full system capacity and performance.",
+      "skills": ["SAP HANA Cloud", "SAP Development & Consulting", "SAP Transformation & Optimization"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "DevOps",
+      "imageSrc": "projects/project.png",
+      "description": "As a technology and service leader for service providers, Nexus has developed the practice and talent to provide you with superb DevOps services.",
+      "skills": ["Cloud Automation", "Deployment Automation", "Database Automation", "Test automation", "Release automation"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Automation and Robotics",
+      "imageSrc": "projects/project.png",
+      "description": "Excelacom provides end-to-end process automation, which involves different stages of human intervention. With improved artificial intelligence techniques, robots learn from errors and fine-tune the process to enhance efficiency.",
+      "skills": ["Automation Robots", "Process Orchestration", "Cognitive Automation (AI)"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
